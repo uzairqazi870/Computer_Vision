@@ -22,20 +22,20 @@ Solution:
 *****************************************************
 Dependent packages
 *****************************************************
--python 
--opencv
--PIL
--numpy
--matplotlib
+	-python 
+	-opencv
+	-PIL
+	-numpy
+	-matplotlib
 
 *****************************************************
 Structure 
 *****************************************************
 Directories:
-images-
- contains thermostat, training and testing images
-model.xml
-Digit recognition of 7 segment display.ipynb
+	images-
+	 contains thermostat, training and testing images
+	model.xml
+	Digit recognition of 7 segment display.ipynb
 
 *****************************************************
 Results
