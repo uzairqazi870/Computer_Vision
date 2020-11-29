@@ -1,5 +1,5 @@
 # Digit recognition of seven segment display
-<img src="Digit_recognize_process.png" width="500" height="500" title="hover text">
+<img src="Digit_recognize_process.png" width="900" height="500" title="hover text">
 
 
 Automatic recognition of digits in a thermostat display
