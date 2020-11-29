@@ -1,13 +1,9 @@
 # Digit recognition of seven segment display
-<img src="images/seven_seg.jpg" width="200" height="200" title="hover text">
+<img src="Digit_recognize_process.png" width="500" height="500" title="hover text">
 
-*************************************************************************************
-Problem:
 
 Automatic recognition of digits in a thermostat display
 
-*************************************************************************************
-Solution:
 Steps:
  -  Read the input image
  -  convert into gray scale and smooth using GaussianBlur (7x7)
