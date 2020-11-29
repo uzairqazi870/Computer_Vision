@@ -1,5 +1,5 @@
-# Aadhar Number Mask generator
-<img src="images/seven_seg.jpg" width="500" title="hover text">
+# Digit recognition of seven segment display
+<img src="images/seven_seg.jpg" width="200" height="200" title="hover text">
 
 *************************************************************************************
 Problem:
@@ -22,22 +22,23 @@ Solution:
 *****************************************************
 Dependent packages
 *****************************************************
-	-python 
-	-opencv
-	-PIL
-	-numpy
-  -matplotlib
+-python 
+-opencv
+-PIL
+-numpy
+-matplotlib
 
 *****************************************************
-Structure and Usage
+Structure 
 *****************************************************
 Directories:
-	images-
-		 contains thermostat, training and testing images
-     
-  model.xml
-  Digit recognition of 7 segment display.ipynb
-		
-Digits in the display are predicted 
+images-
+ contains thermostat, training and testing images
+model.xml
+Digit recognition of 7 segment display.ipynb
 
+*****************************************************
+Results
+*****************************************************
+Digits in the display are predicted 
 *****************************************************
