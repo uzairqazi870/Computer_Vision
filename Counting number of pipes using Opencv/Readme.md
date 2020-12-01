@@ -1,5 +1,5 @@
 # Pipe counting using opencv 
-<img src="process.png" width="900" height="500" title="hover text">
+<img src="process.png" width="800" height="450" title="hover text">
 
 
 Automatic counting of pipes using Computer Vision
