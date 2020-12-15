@@ -1,7 +1,5 @@
 # Moving Pipe OCR
 
-#<img src="" width="500" title="hover text">
-
 *************************************************************************************
 Problem:
 *************************************************************************************
@@ -11,23 +9,24 @@ Problem:
 *************************************************************************************
 Solution:
 *************************************************************************************
-	Steps:
-		-> Read the input frame
-		-> convert into gray scale(mono crome)
-    -> compute the sobel_x (detect vertical edges), threshold it, apply morphological closing operation
-		-> Find the contours
-    -> Verify  area and dimensions of each contour to find the ROI
-    -> extract the ROI from grayscale frame and rotate it 
-    -> configure the tesseract and feed the ROI to it
-		-> print the output of tesseract ( text prints on pipe)
+Steps:
+	
+-> Read the input frame
+-> convert into gray scale(mono crome)
+-> compute the sobel_x (detect vertical edges), threshold it, apply morphological closing operation
+-> Find the contours
+-> Verify  area and dimensions of each contour to find the ROI
+-> extract the ROI from grayscale frame and rotate it 
+-> configure the tesseract and feed the ROI to it
+-> print the output of tesseract ( text prints on pipe)
 
 *****************************************************
 Dependent packages
 *****************************************************
-	-opencv-python
-	-pytesseract
-  -numpy 
-  -argparse
+-opencv-python
+-pytesseract
+-numpy 
+-argparse
 
 *****************************************************
 Installation
