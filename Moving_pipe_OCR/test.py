@@ -1,4 +1,3 @@
-from skimage.segmentation import clear_border
 import numpy as np
 import cv2
 import pytesseract
