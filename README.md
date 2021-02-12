@@ -1,4 +1,5 @@
 # Computer_Vision
+-  Deep ranking model for image similarity search
 -  Aadhaar Number Masker
 -  Counting number of pipes using Opencv
 -  Digit recognition of seven segment display
